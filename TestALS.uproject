@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E6054229-4E6A-C40A-152F-05B2337BB956}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestALS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
